@@ -1,0 +1,27 @@
+# IDE files
+.project
+.cproject
+.settings/
+.idea/
+.metadata/
+
+# Build directories
+Debug/
+Release/
+
+# STM32 generated files
+Core/Startup/
+Drivers/
+*.launch
+*.ioc
+.mxproject
+STM32F411CEUX_FLASH.ld
+STM32F411CEUX_RAM.ld
+
+# System files
+*.lnk
+*.url
+*.exe
+*.desktop.ini
+Thumbs.db
+.DS_Store
